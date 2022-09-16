@@ -29,13 +29,13 @@ Social media tweaks Free to IPA
 
 **Features TikTok**
 
-- [ ] No ads
-- [ ] Save videos
+- [x] No ads
+- [x] Save videos
 
 **Features Twitter**
 
-- [ ] No ads
-- [ ] Save videos in multiple quality
+- [x] No ads
+- [x] Save videos in multiple quality
 
 &nbsp;
 
