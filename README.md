@@ -10,10 +10,10 @@ Social media tweaks Free to IPA
 
    | Application | Bundle | Version | DLTweaks | File Type |
    | ------------------ |:---------:|:------:|:------:|:------:|
-   | [YouTube](https://github.com/omdda/DLTweak) | com.google.ios.youtube | v17.35.3 | v1.0 | IPA |
-   | [Instagram](https://github.com/omdda/DLTweak) | com.burbn.instagram | v252.0 | v1.0 | IPA |
-   | [TikTok](https://github.com/omdda/DLTweak) | com.zhiliaoapp.musically | v25.9.0 | v1.0 | IPA |
-   | [Twitter](https://github.com/omdda/DLTweak) | com.atebits.Tweetie2 | v9.27 | v1.0 | IPA |
+   | [YouTube](https://github.com/omdda/DLTweak) | com.google.ios.youtube | 17.35.3 | 1.0 | IPA |
+   | [Instagram](https://github.com/omdda/DLTweak) | com.burbn.instagram | 252.0 | 1.0 | IPA |
+   | [TikTok](https://github.com/omdda/DLTweak) | com.zhiliaoapp.musically | 25.9.0 | 1.0 | IPA |
+   | [Twitter](https://github.com/omdda/DLTweak) | com.atebits.Tweetie2 | 9.27 | 1.0 | IPA |
 
 **Features YouTube**
 
