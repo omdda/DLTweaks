@@ -20,25 +20,19 @@ Social media tweaks Free to IPA
 ***Features YouTube***
 
 - [x] No ads
-- [ ] Save videos in multiple quality
-- [ ] Save short stories
-- [ ] Background Playback
-
-&nbsp;
+- [x] Save videos in multiple quality
+- [x] Save short stories
+- [x] Background Playback
 
 ***Features Instagram***
 
-- [ ] No ads
-- [ ] Save videos in multiple quality
-
-&nbsp;
+- [x] No ads
+- [x] Save videos in multiple quality
 
 ***Features TikTok***
 
 - [ ] No ads
 - [ ] Save videos
-
-&nbsp;
 
 ***Features Twitter***
 
