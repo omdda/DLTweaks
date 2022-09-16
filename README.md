@@ -15,8 +15,6 @@ Social media tweaks Free to IPA
    | [TikTok](https://github.com/omdda/DLTweak) | com.zhiliaoapp.musically | v25.9.0 | v1.0 | IPA |
    | [Twitter](https://github.com/omdda/DLTweak) | com.atebits.Tweetie2 | v9.27 | v1.0 | IPA |
 
-&nbsp;
-
 **Features YouTube**
 
 - [x] No ads
