@@ -17,24 +17,30 @@ Social media tweaks Free to IPA
 
 &nbsp;
 
-***Features YouTube***
+**Features YouTube**
 
 - [x] No ads
 - [x] Save videos in multiple quality
 - [x] Save short stories
 - [x] Background Playback
 
-***Features Instagram***
+**Features Instagram**
 
 - [x] No ads
 - [x] Save videos in multiple quality
 
-***Features TikTok***
+**Features TikTok**
 
 - [ ] No ads
 - [ ] Save videos
 
-***Features Twitter***
+**Features Twitter**
 
 - [ ] No ads
 - [ ] Save videos in multiple quality
+
+&nbsp;
+
+## Add apps source on Script SeIPA , app AltStore , app Esign
+Add Source `https://connect.omdda.com/SeIPA/json`
+
