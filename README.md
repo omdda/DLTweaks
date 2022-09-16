@@ -6,7 +6,7 @@ Social media tweaks Free to IPA
 
 ## Download Link
 
-**Sideloading (No Jailbreak Required):** 
+**No Jailbreak Required:** 
 
    | Application | Bundle | Version | DLTweaks | File Type |
    | ------------------ |:---------:|:------:|:------:|:------:|
@@ -19,7 +19,7 @@ Social media tweaks Free to IPA
 
 ***Features YouTube***
 
-- [ ] No ads
+- [x] No ads
 - [ ] Save videos in multiple quality
 - [ ] Save short stories
 - [ ] Background Playback
